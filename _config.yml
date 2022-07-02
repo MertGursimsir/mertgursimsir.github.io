@@ -68,7 +68,7 @@ avatar: "https://avatars.githubusercontent.com/u/66382514?s=400&u=6676b95ea6bbf4
 links:
   - linkedin:
       name: LinkedIn
-      show: false
+      show: true
       href: https://www.linkedin.com/in/mertgursimsir/
       icon: fab fa-linkedin
   - github:
