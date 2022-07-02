@@ -78,6 +78,11 @@ links:
       show: true
       href: https://t.me/mertgursimsir
       icon: fab fa-telegram
+  - leetcode:
+      name: LeetCode
+      show: true
+      href: https://leetcode.com/gursimsir/
+      icon: fas fa-code
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
