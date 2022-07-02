@@ -12,12 +12,12 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Mert Gürşimşir
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Bachelor Computer Science Engineering Student at Gebze Technical University
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Fuse Core
+title: Mert Gürşimşir
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -91,7 +91,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Feel free to contact me
-    Quis custodiet ipsos custodes?
+    Feel free to contact me ~ Quis custodiet ipsos custodes?
 
 #EOF
